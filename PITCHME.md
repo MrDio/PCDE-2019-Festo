@@ -1,6 +1,8 @@
 # PCDE 2019 Festo
 ### Dio Satikidis
 ### Matthias Dorsch
+### Verena Boeck
+### Jan Seyler
 
 ---
 
