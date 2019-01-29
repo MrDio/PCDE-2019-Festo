@@ -6,7 +6,7 @@
 @snap[middle]
 
 <div style="display:inline-block;vertical-align:top;">
-    <img style="color:#3598FE; position: absolute; left: -2%; top: 880%" src="assets/img/folien/arrow-right.png" alt="Arrow">
+    <img src="assets/img/folien/arrow-right.png" alt="Arrow">
 </div>
 <div style="display:inline-block;">
     <a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a>
