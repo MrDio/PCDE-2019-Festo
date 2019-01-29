@@ -12,6 +12,13 @@
     <a style="color:#3598FE; font-size: 36px;" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a>
 </div>
 
+<div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
+    <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
+</div>
+<div style="display:inline-block;">
+    <a style="color:#3598FE; font-size: 36px;" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a>
+</div>
+
 @snapend
 
 ---?image=assets/img/folien/Folie2.jpeg
@@ -21,12 +28,12 @@
 
 @snap[middle]
 
-<ul>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Matthias Dorsch</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Verena Boeck</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Jan Seyler</a></li>
-</ul>
+<div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
+    <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
+</div>
+<div style="display:inline-block;">
+    <a style="color:#3598FE; font-size: 36px;" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a>
+</div>
 
 @snapend
 
@@ -35,37 +42,39 @@
 ---?color=#283147
 #leer
 
+
 @snap[middle]
 
-<ul>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Matthias Dorsch</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Verena Boeck</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Jan Seyler</a></li>
-</ul>
+<div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
+    <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
+</div>
+<div style="display:inline-block;">
+    <a style="color:#3598FE; font-size: 36px;" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a>
+</div>
 
 @snapend
+
+
 
 ---?image=assets/img/folien/Folie4.jpeg
 
 
-<a style="color:#3598FE; position: absolute; left: -29px; top: 520px;" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB">  </a>
-
-<img style="color:#3598FE; position: absolute; left: -2%; top: 880%" src="assets/img/folien/arrow-right.png" alt="Arrow">
-
 ---?color=#283147
 #leer
 
+
 @snap[middle]
 
-<ul>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Matthias Dorsch</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Verena Boeck</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Jan Seyler</a></li>
-</ul>
+<div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
+    <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
+</div>
+<div style="display:inline-block;">
+    <a style="color:#3598FE; font-size: 36px;" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a>
+</div>
 
 @snapend
+
+
 
 
 ---?image=assets/img/folien/Folie5.jpeg
@@ -73,16 +82,19 @@
 ---?color=#283147
 #leer
 
+
 @snap[middle]
 
-<ul>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Matthias Dorsch</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Verena Boeck</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Jan Seyler</a></li>
-</ul>
+<div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
+    <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
+</div>
+<div style="display:inline-block;">
+    <a style="color:#3598FE; font-size: 36px;" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a>
+</div>
 
 @snapend
+
+
 
 
 ---?image=assets/img/folien/Folie6.jpeg
@@ -90,16 +102,19 @@
 ---?color=#283147
 #leer
 
+
 @snap[middle]
 
-<ul>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Matthias Dorsch</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Verena Boeck</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Jan Seyler</a></li>
-</ul>
+<div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
+    <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
+</div>
+<div style="display:inline-block;">
+    <a style="color:#3598FE; font-size: 36px;" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a>
+</div>
 
 @snapend
+
+
 
 
 ---?image=assets/img/folien/Folie7.jpeg
@@ -107,16 +122,19 @@
 ---?color=#283147
 #leer
 
+
 @snap[middle]
 
-<ul>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Matthias Dorsch</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Verena Boeck</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Jan Seyler</a></li>
-</ul>
+<div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
+    <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
+</div>
+<div style="display:inline-block;">
+    <a style="color:#3598FE; font-size: 36px;" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a>
+</div>
 
 @snapend
+
+
 
 
 ---?image=assets/img/folien/Folie8.jpeg
@@ -126,14 +144,16 @@
 
 @snap[middle]
 
-<ul>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Matthias Dorsch</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Verena Boeck</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Jan Seyler</a></li>
-</ul>
+<div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
+    <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
+</div>
+<div style="display:inline-block;">
+    <a style="color:#3598FE; font-size: 36px;" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a>
+</div>
 
 @snapend
+
+
 
 
 ---?image=assets/img/folien/Folie9.jpeg
@@ -143,12 +163,12 @@
 
 @snap[middle]
 
-<ul>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Matthias Dorsch</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Verena Boeck</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Jan Seyler</a></li>
-</ul>
+<div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
+    <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
+</div>
+<div style="display:inline-block;">
+    <a style="color:#3598FE; font-size: 36px;" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a>
+</div>
 
 @snapend
 
@@ -160,12 +180,12 @@
 
 @snap[middle]
 
-<ul>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Matthias Dorsch</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Verena Boeck</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Jan Seyler</a></li>
-</ul>
+<div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
+    <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
+</div>
+<div style="display:inline-block;">
+    <a style="color:#3598FE; font-size: 36px;" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a>
+</div>
 
 @snapend
 
@@ -177,12 +197,12 @@
 
 @snap[middle]
 
-<ul>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Matthias Dorsch</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Verena Boeck</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Jan Seyler</a></li>
-</ul>
+<div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
+    <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
+</div>
+<div style="display:inline-block;">
+    <a style="color:#3598FE; font-size: 36px;" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a>
+</div>
 
 @snapend
 
@@ -193,12 +213,12 @@
 
 @snap[middle]
 
-<ul>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Matthias Dorsch</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Verena Boeck</a></li>
-  <li><a style="color:#3598FE" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Jan Seyler</a></li>
-</ul>
+<div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
+    <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
+</div>
+<div style="display:inline-block;">
+    <a style="color:#3598FE; font-size: 36px;" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a>
+</div>
 
 @snapend
 
