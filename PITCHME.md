@@ -1,7 +1,7 @@
 ---?image=assets/img/folien/Folie1.jpeg
 
 ---?image=assets/img/folien/Folie1.jpeg
-#leer
+@color[white](#leer)
 
 @snap[middle]
 
