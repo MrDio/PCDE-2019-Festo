@@ -19,7 +19,7 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.festo.com/group/de/cms/10968.htm"> Die FESTO Kultur. Von Macher für Macher</a>
+      <a style="color:#3598FE; font-size: 36px;" href="https://www.festo.com/group/de/cms/11686.htm"> Die FESTO Kultur. Von Macher für Macher</a>
   </div>
 </div>
 
@@ -37,7 +37,7 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a>
+      <a style="color:#3598FE; font-size: 36px;" href="https://www.linkedin.com/in/satikidis/">Was macht Dio Satikidis? (LinkedIn)</a>
   </div>
 </div>
 
@@ -46,7 +46,44 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a>
+      <a style="color:#3598FE; font-size: 36px;" href="https://www.linkedin.com/in/jan-seyler-92ba64104/">Was macht Jan Seyler? (LinkedIn)</a>
+  </div>
+</div>
+
+<div style="display:block">
+  <div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
+      <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
+  </div>
+  <div style="display:inline-block;">
+      <a style="color:#3598FE; font-size: 36px;" href="https://www.linkedin.com/in/verena-b%C3%B6ck-14b47585/">Was macht Verena Boeck? (LinkedIn)</a>
+  </div>
+</div>
+
+<div style="display:block">
+  <div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
+      <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
+  </div>
+  <div style="display:inline-block;">
+      <a style="color:#3598FE; font-size: 36px;" href="">Was macht Matthias Dorsch? (Müsst Ihr ihn persönlich fragen)</a>
+  </div>
+</div>
+
+<div style="display:block">
+  <div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
+      <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
+  </div>
+  <div style="display:inline-block;">
+      <a style="color:#3598FE; font-size: 36px;" href="https://github.com/cleitner">Was macht Colin Leitner? (Persönlich fragen, oder auf GitHub finden)</a>
+  </div>
+</div>
+
+
+<div style="display:block">
+  <div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
+      <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
+  </div>
+  <div style="display:inline-block;">
+      <a style="color:#3598FE; font-size: 36px;" href="https://www.xing.com/profile/Nadine_Kaercher2/cv">Was macht Nadine Kärcher? (Persönlich fragen, oder auf LinkedIn finden)</a>
   </div>
 </div>
 
