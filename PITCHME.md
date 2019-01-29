@@ -1,6 +1,6 @@
 ---?image=assets/img/folien/Folie1.jpeg
 
----?color=#283147
+---?image=assets/img/folien/Folie1.jpeg
 #leer
 
 @snap[middle]
@@ -27,7 +27,7 @@
 
 ---?image=assets/img/folien/Folie2.jpeg
 
----?color=#283147
+---?image=assets/img/folien/Folie1.jpeg
 #leer
 
 @snap[middle]
@@ -54,7 +54,7 @@
 
 ---?image=assets/img/folien/Folie3.jpeg
 
----?color=#283147
+---?image=assets/img/folien/Folie1.jpeg
 #leer
 
 
@@ -85,7 +85,7 @@
 ---?image=assets/img/folien/Folie4.jpeg
 
 
----?color=#283147
+---?image=assets/img/folien/Folie1.jpeg
 #leer
 
 
@@ -117,7 +117,7 @@
 
 ---?image=assets/img/folien/Folie5.jpeg
 
----?color=#283147
+---?image=assets/img/folien/Folie1.jpeg
 #leer
 
 
@@ -149,7 +149,7 @@
 
 ---?image=assets/img/folien/Folie6.jpeg
 
----?color=#283147
+---?image=assets/img/folien/Folie1.jpeg
 #leer
 
 
@@ -180,7 +180,7 @@
 
 ---?image=assets/img/folien/Folie7.jpeg
 
----?color=#283147
+---?image=assets/img/folien/Folie1.jpeg
 #leer
 
 
@@ -212,7 +212,7 @@
 
 ---?image=assets/img/folien/Folie8.jpeg
 
----?color=#283147
+---?image=assets/img/folien/Folie1.jpeg
 #leer
 
 @snap[middle]
@@ -243,7 +243,7 @@
 
 ---?image=assets/img/folien/Folie9.jpeg
 
----?color=#283147
+---?image=assets/img/folien/Folie1.jpeg
 #leer
 
 @snap[middle]
@@ -272,7 +272,7 @@
 
 ---?image=assets/img/folien/Folie10.jpeg
 
----?color=#283147
+---?image=assets/img/folien/Folie1.jpeg
 #leer
 
 @snap[middle]
@@ -301,7 +301,7 @@
 
 ---?image=assets/img/folien/Folie11.jpeg
 
----?color=#283147
+---?image=assets/img/folien/Folie1.jpeg
 #leer
 
 @snap[middle]
@@ -329,7 +329,7 @@
 
 ---?image=assets/img/folien/Folie12.jpeg
 
----?color=#283147
+---?image=assets/img/folien/Folie1.jpeg
 #leer
 
 @snap[middle]
