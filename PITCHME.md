@@ -37,7 +37,7 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.linkedin.com/in/satikidis/">Was macht Dio Satikidis? (LinkedIn)</a>
+      <a style="color:#3598FE; font-size: 36px;" href="https://www.linkedin.com/in/satikidis/">Was macht Dio Satikidis? (Persönlich fragen, oder auf LinkedIn finden)</a>
   </div>
 </div>
 
@@ -46,7 +46,7 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.linkedin.com/in/jan-seyler-92ba64104/">Was macht Jan Seyler? (LinkedIn)</a>
+      <a style="color:#3598FE; font-size: 36px;" href="https://www.linkedin.com/in/jan-seyler-92ba64104/">Was macht Jan Seyler? (Persönlich fragen, oder auf LinkedIn finden)</a>
   </div>
 </div>
 
@@ -55,7 +55,7 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.linkedin.com/in/verena-b%C3%B6ck-14b47585/">Was macht Verena Boeck? (LinkedIn)</a>
+      <a style="color:#3598FE; font-size: 36px;" href="https://www.linkedin.com/in/verena-b%C3%B6ck-14b47585/">Was macht Verena Boeck? (Persönlich fragen, oder auf LinkedIn finden)</a>
   </div>
 </div>
 
