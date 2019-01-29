@@ -5,7 +5,7 @@
 
 @snap[middle]
 
-<div style="display:inline-block;vertical-align:top;">
+<div style="display:inline-block;vertical-align:top;height:200px;width:auto;">
     <img src="assets/img/folien/arrow-right.png" alt="Arrow">
 </div>
 <div style="display:inline-block;">
