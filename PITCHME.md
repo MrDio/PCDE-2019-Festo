@@ -37,7 +37,7 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.linkedin.com/in/satikidis/">Was macht Dio Satikidis? (Persönlich fragen, oder auf LinkedIn finden)</a>
+      <a style="color:#3598FE; font-size: 36px;" href="https://www.linkedin.com/in/satikidis/">Dio Satikidis? (Persönlich fragen, oder auf LinkedIn finden)</a>
   </div>
 </div>
 
@@ -46,7 +46,7 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.linkedin.com/in/jan-seyler-92ba64104/">Was macht Jan Seyler? (Persönlich fragen, oder auf LinkedIn finden)</a>
+      <a style="color:#3598FE; font-size: 36px;" href="https://www.linkedin.com/in/jan-seyler-92ba64104/">Jan Seyler? (Persönlich fragen, oder auf LinkedIn finden)</a>
   </div>
 </div>
 
@@ -55,7 +55,7 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.linkedin.com/in/verena-b%C3%B6ck-14b47585/">Was macht Verena Boeck? (Persönlich fragen, oder auf LinkedIn finden)</a>
+      <a style="color:#3598FE; font-size: 36px;" href="https://www.linkedin.com/in/verena-b%C3%B6ck-14b47585/">Verena Boeck? (Persönlich fragen, oder auf LinkedIn finden)</a>
   </div>
 </div>
 
@@ -64,7 +64,7 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="">Was macht Matthias Dorsch? (Müsst Ihr ihn persönlich fragen)</a>
+      <a style="color:#3598FE; font-size: 36px;" href="">Matthias Dorsch? (Müsst Ihr ihn persönlich fragen)</a>
   </div>
 </div>
 
@@ -73,7 +73,7 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://github.com/cleitner">Was macht Colin Leitner? (Persönlich fragen, oder auf GitHub finden)</a>
+      <a style="color:#3598FE; font-size: 36px;" href="https://github.com/cleitner">Colin Leitner? (Persönlich fragen, oder auf GitHub finden)</a>
   </div>
 </div>
 
@@ -83,7 +83,7 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.xing.com/profile/Nadine_Kaercher2/cv">Was macht Nadine Kärcher? (Persönlich fragen, oder auf LinkedIn finden)</a>
+      <a style="color:#3598FE; font-size: 36px;" href="https://www.xing.com/profile/Nadine_Kaercher2/cv">Nadine Kärcher? (Persönlich fragen, oder auf LinkedIn finden)</a>
   </div>
 </div>
 
