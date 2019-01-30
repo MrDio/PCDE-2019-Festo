@@ -149,7 +149,7 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.youtube.com/watch?v=MO6S20qVFKQ">Extract: Software für Massenmarkt?</a>
+      <a style="color:#3598FE; font-size: 36px;" href="https://youtu.be/MO6S20qVFKQ?t=743">Extract: Was ist Festo Automation Suite?</a>
   </div>
 </div>
 
