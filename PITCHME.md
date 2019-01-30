@@ -37,7 +37,7 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.linkedin.com/in/satikidis/">Dio Satikidis? (Persönlich fragen, oder auf LinkedIn finden)</a>
+      <a style="color:#3598FE; font-size: 36px;" href="https://www.youtube.com/watch?v=54u3H69tcgM">PCobot V1 Teaser</a>
   </div>
 </div>
 
