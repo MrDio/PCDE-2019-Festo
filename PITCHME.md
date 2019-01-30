@@ -151,7 +151,7 @@
 ---?image=assets/img/folien/Folie5.jpeg
 
 ---?image=assets/img/folien/Folie0.jpg
-@color[white](#leer)
+@color[white](#Festo Karriere)
 
 
 @snap[middle]
@@ -161,7 +161,7 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.festo.com/group/en/cms/index.htm">Festo Corp Web</a>
+      <a style="color:#3598FE; font-size: 36px;" href="https://www.festo.com/group/de/cms/jobs.htm">Festo Karriere</a>
   </div>
 </div>
 
