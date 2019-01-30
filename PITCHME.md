@@ -149,6 +149,15 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
+      <a style="color:#3598FE; font-size: 36px;" href="https://www.festo.com/gb/en/app/">Expand: Wo ist der FESTO AppStore?</a>
+  </div>
+</div>
+
+<div style="display:block">
+  <div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
+      <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
+  </div>
+  <div style="display:inline-block;">
       <a style="color:#3598FE; font-size: 36px;" href="https://youtu.be/MO6S20qVFKQ?t=743">Extract: Was ist Festo Automation Suite?</a>
   </div>
 </div>
