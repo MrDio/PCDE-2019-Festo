@@ -139,7 +139,7 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.youtube.com/watch?v=MO6S20qVFKQ">Extract: Welche Software wird für den Massenmarkt entwickelt?</a>
+      <a style="color:#3598FE; font-size: 36px;" href="https://www.youtube.com/watch?v=MO6S20qVFKQ">Extract: Software für Massenmarkt?</a>
   </div>
 </div>
 
