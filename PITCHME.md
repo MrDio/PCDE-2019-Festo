@@ -5,32 +5,6 @@
 
 @snap[middle]
 
-<div style="display:block">
-  <div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
-      <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
-  </div>
-  <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.welt.de/wirtschaft/bilanz/article167910565/Warum-Chefs-lieber-keine-Macher-einstellen.html"> Welt.de - Warum Chefs lieber keiner Macher einstellen</a>
-  </div>
-</div>
-
-<div style="display:block">
-  <div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
-      <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
-  </div>
-  <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.festo.com/group/de/cms/11686.htm"> Die FESTO Kultur. Von Macher für Macher</a>
-  </div>
-</div>
-
-@snapend
-
----?image=assets/img/folien/Folie3.jpeg
-
----?image=assets/img/folien/Folie0.jpg
-@color[white](#leer)
-
-@snap[middle]
 
 <div style="display:block">
   <div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
@@ -84,6 +58,33 @@
   </div>
   <div style="display:inline-block;">
       <a style="color:#3598FE; font-size: 36px;" href="mailto:nadine.kaercher@festo.com">Nadine Kärcher, Bionics Dev</a>
+  </div>
+</div>
+
+@snapend
+
+---?image=assets/img/folien/Folie3.jpeg
+
+---?image=assets/img/folien/Folie0.jpg
+@color[white](#leer)
+
+@snap[middle]
+
+<div style="display:block">
+  <div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
+      <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
+  </div>
+  <div style="display:inline-block;">
+      <a style="color:#3598FE; font-size: 36px;" href="https://www.welt.de/wirtschaft/bilanz/article167910565/Warum-Chefs-lieber-keine-Macher-einstellen.html"> Welt.de - Warum Chefs lieber keiner Macher einstellen</a>
+  </div>
+</div>
+
+<div style="display:block">
+  <div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
+      <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
+  </div>
+  <div style="display:inline-block;">
+      <a style="color:#3598FE; font-size: 36px;" href="https://www.festo.com/group/de/cms/11686.htm"> Die FESTO Kultur. Von Macher für Macher</a>
   </div>
 </div>
 
