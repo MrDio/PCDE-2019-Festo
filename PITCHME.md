@@ -75,7 +75,7 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.welt.de/wirtschaft/bilanz/article167910565/Warum-Chefs-lieber-keine-Macher-einstellen.html"> Welt.de - Warum Chefs lieber keiner Macher einstellen</a>
+      <a style="color:#3598FE; font-size: 36px;" href="https://www.welt.de/wirtschaft/bilanz/article167910565/Warum-Chefs-lieber-keine-Macher-einstellen.html"> Welt.de - Warum Chefs lieber keine Macher einstellen</a>
   </div>
 </div>
 
