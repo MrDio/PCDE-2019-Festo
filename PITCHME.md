@@ -37,7 +37,7 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.youtube.com/watch?v=54u3H69tcgM">PCobot V1 Teaser</a>
+      <a style="color:#3598FE; font-size: 36px;" href="mailto:dionysios.satikidis@festo.com">Dio Satikidis, Data Science & Dev</a>
   </div>
 </div>
 
@@ -46,7 +46,7 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.linkedin.com/in/jan-seyler-92ba64104/">Jan Seyler? (Persönlich fragen, oder auf LinkedIn finden)</a>
+      <a style="color:#3598FE; font-size: 36px;" href="mailto:jan.seyler@festo.com">Jan Seyler, Data Science & Dev</a>
   </div>
 </div>
 
@@ -55,7 +55,7 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.linkedin.com/in/verena-b%C3%B6ck-14b47585/">Verena Boeck? (Persönlich fragen, oder auf LinkedIn finden)</a>
+      <a style="color:#3598FE; font-size: 36px;" href="mailto:verena.boeck@festo.com">Verena Böck, Talent Dev</a>
   </div>
 </div>
 
@@ -64,7 +64,7 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="">Matthias Dorsch? (Müsst Ihr ihn persönlich fragen)</a>
+      <a style="color:#3598FE; font-size: 36px;" href="mailto:matthiasphilipp.dorsch@festo.com">Matthias Dorsch, Web & Cloud Dev</a>
   </div>
 </div>
 
@@ -73,7 +73,7 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://github.com/cleitner">Colin Leitner? (Persönlich fragen, oder auf GitHub finden)</a>
+      <a style="color:#3598FE; font-size: 36px;" href="mailto:colin.leitner@festo.com">Colin Leitner, Robotics Dev</a>
   </div>
 </div>
 
@@ -83,7 +83,7 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.xing.com/profile/Nadine_Kaercher2/cv">Nadine Kärcher? (Persönlich fragen, oder auf LinkedIn finden)</a>
+      <a style="color:#3598FE; font-size: 36px;" href="mailto:nadine.kaercher@festo.com">Nadine Kärcher, Bionics Dev</a>
   </div>
 </div>
 
@@ -102,25 +102,14 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a>
-  </div>
-</div>
-
-<div style="display:block">
-  <div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
-      <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
-  </div>
-  <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a>
+      <a style="color:#3598FE; font-size: 36px;" href="https://www.youtube.com/watch?v=54u3H69tcgM">PCobot V1 Teaser</a>
   </div>
 </div>
 
 @snapend
 
 
-
 ---?image=assets/img/folien/Folie5.jpeg
-
 
 ---?image=assets/img/folien/Folie0.jpg
 @color[white](#leer)
@@ -133,18 +122,10 @@
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
   </div>
   <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a>
+      <a style="color:#3598FE; font-size: 36px;" href="https://www.youtube.com/watch?v=54u3H69tcgM">PCobot V1 Teaser</a>
   </div>
 </div>
 
-<div style="display:block">
-  <div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
-      <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
-  </div>
-  <div style="display:inline-block;">
-      <a style="color:#3598FE; font-size: 36px;" href="https://www.xing.com/?ace=sem7fb49089&gclid=Cj0KCQiAhKviBRCNARIsAAGZ7Ce2XlrQNiQwK2d7v4VwrLvwnyGkZhI6U3QiZVs26E_lfNFYdyfvErYaAhxqEALw_wcB"> Dio Satikidis</a>
-  </div>
-</div>
 
 
 @snapend
