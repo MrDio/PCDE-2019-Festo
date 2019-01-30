@@ -116,6 +116,16 @@
   </div>
 </div>
 
+
+<div style="display:block">
+  <div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
+      <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
+  </div>
+  <div style="display:inline-block;">
+      <a style="color:#3598FE; font-size: 36px;" href="https://github.com/anoff/ric">Fun: Coding the PCobot - Hackathon Stuttgart 2018</a>
+  </div>
+</div>
+
 <div style="display:block">
   <div style="display:inline-block;vertical-align:top;height:80%;width:auto;">
       <img src="assets/img/folien/arrow-right.png" style="height:80%;width:auto;position:relative;top:5px" alt="Arrow">
