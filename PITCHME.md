@@ -201,7 +201,7 @@
 ---?image=assets/img/folien/Folie9.jpeg
 
 
----?image=assets/img/folien/Folie10.jpeg
+---?image=assets/img/folien/Folie10.jpg
 
 ---?image=assets/img/folien/Folie11.jpeg
 
